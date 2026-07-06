@@ -1,0 +1,51 @@
+{
+  "citations": [
+    {
+      "source": "Business Standard",
+      "title": "Workflow sync crucial to get maximum AI returns",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONUcxS1paUlMtYldaaFk5c21CdXJnZ3NveXBVOGI4T0FONTNpQW4xTHhNYlNjWklQWWhHSWI0bjZEM2hqd0N1dnJaSmJiTnJQYzg5SGRXbThKN0pVcmpfTGRWWUlENk9nUTUwNXRhdXNZeS1FNk1IRGFod3N6SHk0TF9CNFNuS0ZpUldFQ1YtZG9IUXlYemlXQ0tNMHRLNS1Ua2I2TUg2cWNtUzRZMG9KemU2UnktOWFROE5HZzZfLUNjNUxhQnJZZXBHQWdmQjBzMHNZSko4bFNWdzIyOVRzZHk1Rzh2V2dZUjVV0gHwAUFVX3lxTE52eXhUdTlxTGhXMWUyLWRWLWppYXFYczBQN2steTJXWWFPQlBGNEUwSjQ1NXVvdVdHSVN0U1k3Zk1LaTVsNFh2NEpsVlNMS3MwYVNMNXNGcldjVVE2aERNV2Ixb2xQQW5Id2xEUFNkdGczeWMxQzljSEtSbmZ6WmxvUFlZcDJzTzNoZjhKc0lGNWVUdXhCT1B4aEVqVkl1Ym5waWZGb1p5aG5fTHhieWtTX09QMThJMmVuRHhWTUdkbjJUdzNXOF96YU9xOWF1eWJ1YU4tQVhZdkxGaFFVZVZNcWcxc2NwbmNxMDBrNHRweg?oc=5"
+    },
+    {
+      "source": "Memeburn",
+      "title": "Google gives Gemini 3.5 Flash computer use for AI agents",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdmotdWlXYzdiUUVaeXZQaDJkcVB5bzlfcWROWldtd2JjZXdoeEVVR0U4X3ZyZjR2cElfVXh1dXlhZG84YXlseWRDRmtlY2E2RWZ4Vno5RGp6LTRBbU04bXVDYWprOEJXaVJ1bG9jeFdMSFpmX216N1l6LXQwRW9SYk1uQk4?oc=5"
+    },
+    {
+      "source": "MIT News",
+      "title": "Q&A: What is agentic AI today, and what do we want it to be?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RM1ZBZHlsbkR4dlJscXJLMkhFUzN1S280eXBsV1hCXzdCOTBraWZ1cUt1SUhqXzBUbThPSnBQdWpKTTI2aXdxQTdHbk9SM1d2NGluUXZ0cWktNzdWeS1xZHRQcVhDcWs5M2R4YXdUTGVvMThCRXc?oc=5"
+    },
+    {
+      "source": "Search Engine Journal",
+      "title": "Google Gemini Can Now Control Your Computer",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c?oc=5"
+    },
+    {
+      "source": "Anthropic",
+      "title": "Building Effective AI Agents",
+      "url": "https://www.anthropic.com/engineering/building-effective-agents"
+    },
+    {
+      "source": "Google AI for Developers",
+      "title": "Computer Use | Gemini API",
+      "url": "https://ai.google.dev/gemini-api/docs/computer-use"
+    }
+  ],
+  "design_plan": "Python RNG Execution: seed=hash(title+kind+audience+generated_at) \u2192 architecture=workflow-command-center, components=[workflow-playbook-timeline, source-card-dossier, implementation-checklist], GSAP=[pinned-chapter-scroll, hover-physics]. AIDA Check: hero=Attention, proof chapters=Interest, workflow media=Desire, CTA band=Action. Font Selection: Cabinet Grotesk primary. Hero Math Verification: H1 max-width 1120px, clamp(44px\u201372px), 2\u20133 lines. Bento Density Verification: grid-auto-flow:dense present. GSAP Motion Selection: guarded ScrollTrigger + hover physics. Label Sweep & Button Check: all CTAs black/white pills, correct href.",
+  "generated_at": "2026-07-06T02:44:28.907889+00:00",
+  "headline": "Super for busy executives who want a real personal assistant",
+  "site_brief": {
+    "audience": "busy executives who want a real personal assistant",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work. Include a long-form field guide for this niche with concrete workflows, how-to steps, role-specific examples, objections, and a setup checklist.",
+    "kind": "niche_landing",
+    "queries": [
+      "busy executives who want a real personal assistant AI assistant",
+      "busy executives who want a real personal assistant personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-busy-executives-who-want-a-real-personal-assista",
+    "title": "Super for busy executives who want a real personal assistant"
+  },
+  "summary": "A premium niche landing page for busy executives who need a personal AI assistant that actually operates computers, executes workflows end\u2011to\u2011end, and gets cheaper over time through a reusable computer-use cache."
+}
